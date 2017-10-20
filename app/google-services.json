@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "650345649056-clfog4p9oj6bv2c8mcs6nns4dg3m86jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redwanul.cptracker",
+            "certificate_hash": "9e9e8bd46955ec13b3460e535ce7e24da8753d5c"
+          }
+        },
+        {
           "client_id": "650345649056-7tt6vmdjtoj4vn2qf4tc113opm4638nn.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650345649056-7tt6vmdjtoj4vn2qf4tc113opm4638nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
