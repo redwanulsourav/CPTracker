@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "650345649056",
+    "firebase_url": "https://cptracker-e6c1e.firebaseio.com",
+    "project_id": "cptracker-e6c1e",
+    "storage_bucket": "cptracker-e6c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650345649056:android:570c932b089e8451",
+        "android_client_info": {
+          "package_name": "com.example.redwanul.cptracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650345649056-7tt6vmdjtoj4vn2qf4tc113opm4638nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-kHC5Kkfk1OBeFse4TVA8Od8jcb3pVg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
